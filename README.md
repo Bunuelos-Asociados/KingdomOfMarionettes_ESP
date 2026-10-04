@@ -3,8 +3,9 @@
 LINK DEL JUEGO: https://thepipiw.itch.io/kingdom-of-marionettes
 
 IMAGENES DE LA TRADUCCION:
-
-
+<img width="1535" height="813" alt="image" src="https://github.com/user-attachments/assets/7bf32c71-1843-47b9-ac25-1c5c178720b2" />
+<img width="1530" height="812" alt="image" src="https://github.com/user-attachments/assets/73c9d8ff-93c5-480a-8c56-120a491ba7cf" />
+![Uploading image.png…]()
 
 DESCARGA EL ARCHIVO .ZIP ARRIBA
 
